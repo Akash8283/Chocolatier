@@ -6,16 +6,16 @@ Focus: smooth interactions, luxury UI, and high-quality motion design.
 🚀 Live Demo
     https://chocolatier-eta.vercel.app
 
-🔧 Tech Stack
-    React.js
-    GSAP
-    Framer Motion
-    Lenis
+🔧 Tech Stack :
+    React.js,
+    GSAP,
+    Framer Motion,
+    Lenis,
     Antigravity
 
-✨ Key Features
-    Smooth scrolling & scroll-synced animations
-    Premium brand-style UI
-    Framer Motion transitions
-    GSAP timeline animations
+✨ Key Features :
+    Smooth scrolling & scroll-synced animations,
+    Premium brand-style UI,
+    Framer Motion transitio,ns
+    GSAP timeline animations,
     Fully responsive layout
