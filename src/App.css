@@ -1,0 +1,10 @@
+/* Ensure no gaps between sections */
+#root > * {
+  margin: 0;
+  padding: 0;
+}
+
+/* Prevent any overflow issues */
+body {
+  overflow-x: hidden;
+}
