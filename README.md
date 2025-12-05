@@ -16,6 +16,6 @@ Focus: smooth interactions, luxury UI, and high-quality motion design.
 ✨ Key Features :
     Smooth scrolling & scroll-synced animations,
     Premium brand-style UI,
-    Framer Motion transitio,ns
+    Framer Motion transitions,
     GSAP timeline animations,
     Fully responsive layout
