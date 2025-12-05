@@ -4,29 +4,18 @@ A modern, animation-rich frontend web application for a chocolate brand, built u
 Focus: smooth interactions, luxury UI, and high-quality motion design.
 
 🚀 Live Demo
-
-https://chocolatier-eta.vercel.app
+    https://chocolatier-eta.vercel.app
 
 🔧 Tech Stack
-
-React.js
-
-GSAP
-
-Framer Motion
-
-Lenis
-
-Antigravity
+    React.js
+    GSAP
+    Framer Motion
+    Lenis
+    Antigravity
 
 ✨ Key Features
-
-Smooth scrolling & scroll-synced animations
-
-Premium brand-style UI
-
-Framer Motion transitions
-
-GSAP timeline animations
-
-Fully responsive layout
+    Smooth scrolling & scroll-synced animations
+    Premium brand-style UI
+    Framer Motion transitions
+    GSAP timeline animations
+    Fully responsive layout
